@@ -2,7 +2,7 @@
 
 ![umlJoghurtMaschine](umlJoghurtMaschine.png)
 
-Anlage/Maschine Function
+Anlage/Maschine basic Function
 1. run bJoghurtOrder() function in Class Maschine
 2. call getCup function from Class Cup, if succeed then step 3.
 3. it will request input('1','2','0'), if input right, go to step 4, else repeat request input.
